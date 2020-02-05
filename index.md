@@ -1,3 +1,5 @@
 Index (md)
 ==========
-[link to about.md](/about)
+* [About](/about)
+* [Profile](/profile)
+* [MemoGame](/memogame/index)
